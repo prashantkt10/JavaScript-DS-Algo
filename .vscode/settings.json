@@ -1,0 +1,22 @@
+{
+    "peacock.affectActivityBar": true,
+    "peacock.affectStatusBar": true,
+    "peacock.affectTitleBar": true,
+    "peacock.elementAdjustments": {
+        "activityBar": "lighten"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#9ddc97",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#7078cf",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#79cf71",
+        "titleBar.inactiveBackground": "#79cf7199",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveForeground": "#15202b99",
+        "statusBar.background": "#79cf71",
+        "statusBarItem.hoverBackground": "#55c24b",
+        "statusBar.foreground": "#15202b"
+    }
+}
